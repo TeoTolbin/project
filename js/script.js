@@ -10,7 +10,7 @@ const personalMovieDB = {
     privat: false
 };
 
-let i = 0
+let i = 0;
 
 do {
     const a = prompt('Один из просмотренных фильмов?', ''),
